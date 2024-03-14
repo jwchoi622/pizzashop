@@ -13,7 +13,7 @@ Use SQL queries to get the necessary information on each of the three problems
 
 
 Use Looker Studio to get a dashboard 
-![](/images/dashboard.pdf)
+![](/images/dashboard.png)
 
 
 ## Insights
