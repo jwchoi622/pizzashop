@@ -5,10 +5,16 @@ A new restaurant needs a database and a way to analyze orders, inventory and sta
 
 ## Solution 
 Design a SQL database in QuickDBD
+![](/images/database.png)
+
 
 Use SQL queries to get the necessary information on each of the three problems
+![](/images/query.png)
+
 
 Use Looker Studio to get a dashboard 
+![](/images/dashboard.pdf)
+
 
 ## Insights
 1. There are a couple ingredients that need to be restocked
